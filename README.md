@@ -266,9 +266,10 @@ There should be an appropriate description of the college on the home page.
 ## OUTPUT:
 ![Screenshot (40)](https://github.com/DHARSHINISENTHILKUMAR/html-ABC-college/assets/113699377/d4c587b8-c6c9-4d0b-b0d1-e9e1bca54be9)
 ![Screenshot (41)](https://github.com/DHARSHINISENTHILKUMAR/html-ABC-college/assets/113699377/c3544a9c-a10a-4fdc-b815-fc803c0705c7)
-![Screenshot (43)](https://github.com/DHARSHINISENTHILKUMAR/html-ABC-college/assets/113699377/4c038398-d62c-4d9a-8431-7aa11db910a1)
-![Screenshot (43)](https://github.com/DHARSHINISENTHILKUMAR/html-ABC-college/assets/113699377/a0595073-ca77-4f00-a102-802453dbf972)
-![Screenshot (43)](https://github.com/DHARSHINISENTHILKUMAR/html-ABC-college/assets/113699377/85c05622-6097-4fa5-b7dd-d2faffc56e9f)
+![Screenshot (43)](https://github.com/DHARSHINISENTHILKUMAR/html-ABC-college/assets/113699377/24886c1c-ee86-4409-a0fc-9820075d61e5)
+![Screenshot (44)](https://github.com/DHARSHINISENTHILKUMAR/html-ABC-college/assets/113699377/8812842c-1653-43ca-8660-66288b487a6d)
+![Screenshot (45)](https://github.com/DHARSHINISENTHILKUMAR/html-ABC-college/assets/113699377/3c31177c-c146-458e-8e9d-63a2275b7092)
+
 
 # Assingment 1:
 ```
