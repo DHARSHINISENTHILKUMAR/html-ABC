@@ -3,31 +3,54 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ABC College</title>
-    <link rel="stylesheet" href="css/styles.css">
+    <title>College Website - Admission</title>
 </head>
 <body>
-
-<header>
-    <img src="images/logo.png" alt="College Logo">
-    <h1>ABC College</h1>
-</header>
-
-<nav>
-    <a href="index.html">Home</a>
-    <a href="academics.html">Academics</a>
-    <a href="admission.html">Admission</a>
-    <a href="gallery.html">Gallery</a>
-</nav>
-
-<article>
-    <h2>Welcome to ABC College</h2>
-    <p>ABC College is a prestigious institution .</p>
-<article>
-
-<footer>
-    &copy; 2024 ABC College. All rights reserved.
-</footer>
-
+    <header>
+        <div class="container">
+            <img src="sairam.png" alt="College Logo">
+            <h1>SAIRAM Engineering College</h1>
+            <nav>
+                <ul>
+                    <li><a href="sairam.html">Home</a></li>
+                    <li><a href="college.html">Academics</a></li>
+                    <li><a href="engg.html">Admission</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    <div class="container">
+        <section>
+            <h2>Admission</h2>
+            <form action="#" method="post">
+                <label for="name">Name:</label>
+                <input type="text" id="name" name="name" required><br><br>
+                
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required><br><br>
+                
+                <label for="course">Select Course:</label>
+                <select id="course" name="course" required>
+                    <option value="">--Select Course--</option>
+                    <option value="Computer Science">Computer Science</option>
+                    <option value="Mathematics">Mathematics</option>
+                    <option value="English">English</option>
+                    <option value="Sociology">Sociology</option>
+                    <option value="Economics">Economics</option>
+                    <option value="Business Management">Business Management</option>
+                </select><br><br>
+                
+                <label for="message">Message:</label><br>
+                <textarea id="message" name="message" rows="4" required></textarea><br><br>
+                
+                <input type="submit" value="Submit">
+            </form>
+        </section>
+    </div>
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 Sairam Engineering College. All rights reserved.</p>
+        </div>
+    </footer>
 </body>
 </html>
